@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>webpjs</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>WebPJS</name>
     <description>WebJar for WebPJS</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/webpjs</url>
         <connection>scm:git:https://github.com/webjars/webpjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/webpjs.git</developerConnection>
-        <tag>webpjs-0.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
